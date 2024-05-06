@@ -19,9 +19,13 @@
 1.XAMPP (дистрибутив для сборки локального веб-сервера) <br>
 2.PhpMyAdmin (веб-интерфейс для управления сайтом и базой данных)
 
-## Изображения сайта
-<p align="center">
+## _Изображения сайта_
+<p align="left">
 <img src='https://github.com/plpedropl/-sportNews2024/assets/90320297/788ed6b9-5e02-4e03-914d-aaea412936d5'>
-
+<img src='https://github.com/plpedropl/-sportNews2024/assets/90320297/17c3e3b6-5c1c-4630-97cd-beb601a1cc14'>
+<img src='https://github.com/plpedropl/-sportNews2024/assets/90320297/a0be45a5-b8aa-42d8-8f50-f798a2156283'>
+<img src='https://github.com/plpedropl/-sportNews2024/assets/90320297/bf28ebeb-f214-49d7-a218-86928b80d78e'>
+<img src='https://github.com/plpedropl/-sportNews2024/assets/90320297/0cbf52b5-9468-4f06-819e-f59b90670773'>
+<img src='https://github.com/plpedropl/-sportNews2024/assets/90320297/c6bc8ae2-6c0e-4d43-9deb-77a66cea4dcd'>
 </p>
 
