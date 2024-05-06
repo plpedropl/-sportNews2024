@@ -1,0 +1,74 @@
+
+#sport-categories {
+    width: 100%;
+    display: flex; /* Равномерное распределение пространства между картинками */
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    cursor: pointer;
+    margin: 40px 0px;
+}
+
+#sport-categories li {
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid #2d52f7;
+    border-radius: 5px;
+    background-color: #a0aeee;
+}
+
+#sport-categories li:hover {
+    background-color: #58bbf5;
+}
+
+#tournament-list {
+    list-style: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+#tournament-list li {
+    width: 50%;
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 1px solid #f19925;
+    border-radius: 5px;
+    background-color: #cef039;
+    margin: auto;
+    margin-top: 5px;
+}
+
+#tournament-list li:hover {
+    background-color: #d9f100;
+}
+
+#tournament-list li.selected-tournament {
+    background-color: #d9f100;
+}
+.tournament-details-container {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: rgb(173, 216, 230); /* Blue background */
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    text-decoration: none;
+    padding: 10px 0px;
+}
+
+.tournament-details-container img {
+    width: 50px;
+    height: 50px;
+}
+
+/* Дополнительный стиль для изображений */
+#sport-categories img {
+    width: 150px; /* Ширина изображений */
+    height: auto; /* Автоматическая высота */
+    margin: 10px 20px;
+}
