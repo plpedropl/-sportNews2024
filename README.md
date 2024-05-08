@@ -34,11 +34,13 @@
 <img src="https://github.com/plpedropl/-sportNews2024/assets/90320297/181256a8-6343-41aa-870f-77f529cd025d">
 
 ## _Этапы запуска проекта:_
-1) Перекинуть папку с проектом "sportNews2024" в C:\xampp:\htdocs; <br>
-2) Запустить xampp-control.exe и напротив Apache и MySQL нажать на кнопку "Start"; <br>
-3) Создать базу данных и назвать "sportnews2024", используем кодировку "utf8_unicode_ci"; <br>
-4) Переходим во вкладку "Импорт" и загружаем базу данных sportnews2024.sql; <br>
-5) Заходим в браузер и вводим localhost/sportnews2024/;
+1) Скачать проект SportNews с GitHub; <br>
+2) Установить XAMPP; <br>
+3) Перекинуть папку с проектом "sportNews2024" в C:\xampp:\htdocs; <br>
+4) Запустить xampp-control.exe и напротив Apache и MySQL нажать на кнопку "Start"; <br>
+5) Создать базу данных и назвать "sportnews2024", используем кодировку "utf8_unicode_ci"; <br>
+6) Переходим во вкладку "Импорт" и загружаем базу данных sportnews2024.sql; <br>
+7) Заходим в браузер и вводим localhost/sportnews2024/;
 ----------------------------------------------------------------------------------
 ## _База данных называется sportnews2024_
 
