@@ -29,6 +29,10 @@
 <img src='https://github.com/plpedropl/-sportNews2024/assets/90320297/c6bc8ae2-6c0e-4d43-9deb-77a66cea4dcd'>
 </p>
 
+## _ERD-диаграмма_
+<p align="left"></p>
+<img src="https://github.com/plpedropl/-sportNews2024/assets/90320297/181256a8-6343-41aa-870f-77f529cd025d">
+
 ## _Этапы запуска проекта:_
 1) Перекинуть папку с проектом "sportNews2024" в C:\xampp:\htdocs; <br>
 2) Запустить xampp-control.exe и напротив Apache и MySQL нажать на кнопку "Start"; <br>
